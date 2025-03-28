@@ -7,5 +7,17 @@
   },
   "dependencies": {
     "probe-image-size": "^7.2.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexc3295/zillow-filter-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexc3295/zillow-filter-service/issues"
+  },
+  "homepage": "https://github.com/alexc3295/zillow-filter-service#readme",
+  "description": ""
 }
